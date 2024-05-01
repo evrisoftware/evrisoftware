@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ever Rios
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Angular and Firebase
-- 🤝 I’m looking to collaborate on Open Source Projects
+👋 Hi, I’m Ever Rios.
+👀 I’m interested in Web, Cloud and Automation.
+🌱 I’m currently learning Angular, Firebase, TailwindCSS and GAS.
+🤝 I can work in your Project's requirements by developing solutions of any size. 
