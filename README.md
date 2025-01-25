@@ -1,2 +1,1 @@
-👋 Hi, I’m Ever Rios.
-🌱 I develop Angular projects.
+I 💙 Software Engineering
